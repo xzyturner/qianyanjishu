@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://root@172.31.233.129:12222/root/miniconda3/envs/surroundocc/bin/python3.7" />
+        <remote-mappings server-id="python@sftp://root@172.31.233.173:12222/root/miniconda3/envs/surroundocc/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/mnt/d/project/SurroundOcc-main" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://root@172.31.233.173:12222/root/miniconda3/envs/renderocc/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/mnt/d/project/SurroundOcc-main" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://root@172.31.233.173:12222/root/miniconda3/envs/surroundocc/bin/python" />
+        <remote-mappings server-id="python@sftp://root@172.31.233.173:12222/root/miniconda3/envs/surroundocc/bin/python3" />
+      </list>
+    </list>
+  </component>
+</project>

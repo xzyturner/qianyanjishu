@@ -1,0 +1,12 @@
+
+ipython:S1192S"QDefine a constant instead of duplicating this literal 'cycle.with_rider' 3 times.(Ä» ¢
+opython:S1192H"RDefine a constant instead of duplicating this literal 'pedestrian.moving' 3 times.(¹íœÑúÿÿÿÿ
+gpython:S1192Z"PDefine a constant instead of duplicating this literal 'vehicle.stopped' 3 times.(Æï&
+gpython:S1192K"ODefine a constant instead of duplicating this literal 'vehicle.moving' 4 times.(›”Î‹
+lpython:S1192V"TDefine a constant instead of duplicating this literal 'pedestrian.standing' 3 times.(öƒ—
+gpython:S1192G"ODefine a constant instead of duplicating this literal 'vehicle.parked' 6 times.(òûí
+qpython:S1192L"TDefine a constant instead of duplicating this literal 'cycle.without_rider' 4 times.(¨’Ñ°úÿÿÿÿ
+Cpython:S125¾"Remove this commented out code.(İ¢–£ıÿÿÿÿ8¢ Ä‡Š2
+rpython:S3776®"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¼·“úÿÿÿÿ
+Gpython:S2638¬")Add missing parameters submission_prefix.(ß‹¶Œùÿÿÿÿ
+<python:S125Ú"Remove this commented out code.(—œÀŒùÿÿÿÿ
